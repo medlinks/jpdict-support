@@ -1,0 +1,9 @@
+body{margin:0;background:#F7F3EC;color:#1F1C17;font-family:-apple-system,"PingFang SC","Hiragino Sans GB","Hiragino Sans",sans-serif;line-height:1.7}
+main{max-width:720px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"Songti SC","Hiragino Mincho ProN",serif;font-size:32px;margin:0 0 4px}
+h2{font-size:18px;margin:36px 0 8px;border-bottom:1px solid #E4DDD0;padding-bottom:6px}
+.sub{color:#7A7267;margin:0 0 24px}
+.card{background:#FFFDF9;border:1px solid #E4DDD0;border-radius:12px;padding:16px 20px;margin:12px 0}
+a{color:#B8452C}
+.lang{font-size:12px;letter-spacing:2px;color:#9C9388;margin-top:28px}
+nav a{margin-right:16px}
